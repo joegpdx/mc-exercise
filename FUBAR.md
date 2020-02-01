@@ -19,3 +19,7 @@ oldArray.forEach(item => {
   const newObject = {
     name: item[0], // tony
     type: item[1], // dog
+
+
+* Ted and Alice love to code
+* Janelle and Jenna do not know who Ted and Alice are.    
