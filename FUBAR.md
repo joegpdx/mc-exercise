@@ -19,3 +19,8 @@ oldArray.forEach(item => {
   const newObject = {
     name: item[0], // tony
     type: item[1], // dog
+
+
+
+
+    MERGE MEGE MERGE MERGE
